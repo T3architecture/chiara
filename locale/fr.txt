@@ -1,0 +1,26 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = chiara
+
+## Skin
+
+### Label
+label4056.text = chiara
+
+## Media
+
+### Title
+panorama_74E17293_7916_FF7C_41DB_537D6B7ECE14.label = Transition
+panorama_74E6B467_7916_DBA4_41C7_0F7205DD19E4.label = Salon
+panorama_776A06AE_7915_24A4_41D1_F58EDAF3FE77.label = Cuisine1
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://t3architecture.fr/
